@@ -1,0 +1,82 @@
+{
+  "hash": "46055ab8",
+  "configHash": "e694663d",
+  "lockfileHash": "2016cd82",
+  "browserHash": "39893d2a",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "08a32539",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ca090225",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "702c6133",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "32ee122f",
+      "needsInterop": false
+    },
+    "astronomy-engine": {
+      "src": "../../../../../../node_modules/astronomy-engine/esm/astronomy.js",
+      "file": "astronomy-engine.js",
+      "fileHash": "fc0160b4",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../../../../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "87d358dd",
+      "needsInterop": false
+    },
+    "idb": {
+      "src": "../../../../../../node_modules/idb/build/index.js",
+      "file": "idb.js",
+      "fileHash": "1edcc51d",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "055fa749",
+      "needsInterop": false
+    },
+    "rxjs/operators": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/operators/index.js",
+      "file": "rxjs_operators.js",
+      "fileHash": "d3892c11",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UMHPIQ2X": {
+      "file": "chunk-UMHPIQ2X.js"
+    },
+    "chunk-WJXBM3J2": {
+      "file": "chunk-WJXBM3J2.js"
+    },
+    "chunk-JRFR6BLO": {
+      "file": "chunk-JRFR6BLO.js"
+    },
+    "chunk-HWYXSU2G": {
+      "file": "chunk-HWYXSU2G.js"
+    },
+    "chunk-MARUHEWW": {
+      "file": "chunk-MARUHEWW.js"
+    },
+    "chunk-GOMI4DH3": {
+      "file": "chunk-GOMI4DH3.js"
+    }
+  }
+}
